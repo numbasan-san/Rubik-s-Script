@@ -1,0 +1,38 @@
+
+table, tr, td {
+	margin: 5px;
+}
+
+.R, .G, .Y, .B, .O, .W{
+	margin: 10px;
+	width: 30px;
+	height: 30px;
+}
+
+.R{
+	background-color: red;
+}
+
+.G{
+	background-color: green;
+}
+
+.Y{
+	background-color: yellow;
+}
+
+.B{
+	background-color: blue;
+}
+
+.O{
+	background-color: orange;
+}
+
+.W{
+	background-color: white;
+}
+
+.back{
+	background-color: black;
+}
